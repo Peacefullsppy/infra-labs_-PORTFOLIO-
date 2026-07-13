@@ -21,7 +21,7 @@ Criar uma máquina virtual com ubuntu server.
 
 
 ## Resultado
-O sistema foi instalado e consegui realizar o primeiro login.
+O sistema foi instalado e consegui realizar o primeiro login. E também realizei uso de comandos como hostname, whoami, ip a, df -h e free -h!
 
 ## Dificuldades encontradas 
 Nenhuma falha encontrada!
