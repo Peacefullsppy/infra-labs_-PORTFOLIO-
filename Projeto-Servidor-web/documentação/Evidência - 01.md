@@ -5,7 +5,7 @@
 # Laboratório 01 — Instalação e Validação de um Servidor Ubuntu
 
 ## Status: Concluído
-##Ambiente de virtualização: Oracle VirtualBox
+### Ambiente de virtualização: Oracle VirtualBox
 
 # 1. Objetivo
 
