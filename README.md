@@ -127,9 +127,9 @@ Por meio destes projetos, busco demonstrar:
 ## Como visualizar os projetos
 
 1. Acesse a pasta do laboratório desejado.
-2. Abra o arquivo de documentação em Markdown.
+2. Abra o arquivo de documentação em Markdown (md).
 3. Consulte os procedimentos realizados.
-4. Analise as imagens disponíveis na pasta `prints`.
+4. Analise as imagens disponíveis na pasta `print`.
 5. Verifique os resultados e as dificuldades registradas.
 
 ---
