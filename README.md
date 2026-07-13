@@ -77,7 +77,7 @@ free -h
 infra-labs-portfolio/
 │
 ├── README.md
-├── laboratorio-01-ubuntu-server/
+├── Projeto-Servidor-web/
 │   ├── evidencia-01.md
 │   └── prints/
 │       ├── screenshot-de-login.png
