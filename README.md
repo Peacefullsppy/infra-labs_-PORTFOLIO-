@@ -10,9 +10,13 @@ Criar uma máquina virtual com ubuntu server.
 ## CONFIGURAÇÃO 
 
 -NOME: srv-web-01
+
 -SISTEMA: Ubuntu Server 25.04 (Plucky Puffin) (64-bit)
+
 -RAM: 4GB (4096mb)
+
 -PROCESSADORES: 2 CPU
+
 -DISCO: 25,00 GB
 
 
