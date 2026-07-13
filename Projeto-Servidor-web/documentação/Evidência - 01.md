@@ -24,7 +24,7 @@ Criar uma máquina virtual com ubuntu server.
 O sistema foi instalado e consegui realizar o primeiro login.
 
 ## Dificuldades encontradas 
-Nenhuma falha encontrada
+Nenhuma falha encontrada!
 
 ## Evidências 
-
+Acesse a pasta prints do repositório!
