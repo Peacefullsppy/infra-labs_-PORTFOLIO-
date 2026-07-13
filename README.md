@@ -67,7 +67,7 @@ free -h
 - Verificação do espaço em disco;
 - Análise do uso de memória RAM.
 
-> Consulte a documentação e as evidências do laboratório na pasta correspondente ao **Laboratório 01**.
+> Consulte a documentação e as evidências do laboratório na pasta correspondente 'print'.
 
 ---
 
