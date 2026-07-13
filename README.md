@@ -1,7 +1,7 @@
-### infra-labs_-PORTFOLIO-
+# infra-labs_-PORTFOLIO-
 ## Repositório para o meu portfólio oficial para empregos!
 
-# DIA 1 - INSTALAÇÃO DE SERVIDOR
+## DIA 1 - INSTALAÇÃO DE SERVIDOR
 ## OBJETIVO
 Criar uma máquina virtual com ubuntu server.
 ## CONFIGURAÇÃO
