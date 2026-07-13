@@ -139,11 +139,9 @@ Por meio destes projetos, busco demonstrar:
 **Matheus D’Eleutério**  
 Estudante de Engenharia de Software, com foco profissional em Suporte Técnico, Monitoramento e Infraestrutura de TI.
 
-- GitHub: adicione aqui o link do seu perfil;
-- LinkedIn: adicione aqui o link do seu perfil;
-- E-mail profissional: adicione aqui o seu endereço de contato.
-
----
+- GitHub: https://github.com/Peacefullsppy;
+- LinkedIn: https://www.linkedin.com/in/matheus-d%E2%80%99eleut%C3%A9rio-de-castro-lopes-2367a034a/;
+- E-mail profissional: matheus.castro2164@gmail.com ---
 
 ## Observação
 
