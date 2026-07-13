@@ -90,7 +90,7 @@ Não havia espaço de swap configurado no momento do teste.
 
 ## Não foram identificadas falhas relevantes durante a criação da máquina virtual, a instalação do sistema operacional ou a execução dos comandos de validação.
 
-# 8. Evidências (ACESSE A PASTA 'print' deste repositório!!!)
+# 8. Evidências (ACESSE A PASTA 'print' DESTE REPOSITÓRIO!!!)
 ## 8.1 Primeiro login no servidor
 
 # Figura 1 (Screenshot de Login) — Inicialização do Ubuntu Server e primeiro login realizado com sucesso.
