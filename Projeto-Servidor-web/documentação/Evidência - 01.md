@@ -9,7 +9,7 @@
 
 # 1. Objetivo
 
-## Criar e configurar uma máquina virtual com o Ubuntu Server, realizar o primeiro acesso ao sistema e executar comandos básicos para validar a instalação, a identidade do servidor, a configuração de rede e o uso dos recursos computacionais.
+### Criar e configurar uma máquina virtual com o Ubuntu Server, realizar o primeiro acesso ao sistema e executar comandos básicos para validar a instalação, a identidade do servidor, a configuração de rede e o uso dos recursos computacionais.
 
 # 2. Configuração da Máquina Virtual  
 
@@ -28,7 +28,7 @@ Armazenamento	25 GB
 Software de virtualização	Oracle VirtualBox
 
 # 3. Atividades Executadas
-## Durante o laboratório, foram realizadas as seguintes atividades:
+### Durante o laboratório, foram realizadas as seguintes atividades:
 
 Criação da máquina virtual no Oracle VirtualBox.
 
@@ -50,7 +50,7 @@ Consulta do consumo de memória RAM.
 
 # 4. Comandos Utilizados
 
-## Comando	Finalidade
+### Comando	Finalidade
 
 hostname	Exibir o nome configurado para o servidor.
 
@@ -63,7 +63,7 @@ df -h	Consultar o espaço utilizado e disponível nos sistemas de arquivos.
 free -h	Verificar o consumo e a disponibilidade de memória RAM.
 
 # 5. Validações Realizadas
-## Os testes apresentados nas evidências confirmaram os seguintes resultados:
+### Os testes apresentados nas evidências confirmaram os seguintes resultados:
 
 O servidor foi identificado corretamente como srv-web-01.
 
@@ -83,22 +83,22 @@ Não havia espaço de swap configurado no momento do teste.
 
 # 6. Resultado
 
-## A máquina virtual foi criada e o sistema operacional foi instalado com sucesso. O primeiro acesso ao servidor foi realizado normalmente, e os comandos utilizados confirmaram o funcionamento básico do ambiente.
-## As verificações de hostname, usuário, rede, armazenamento e memória demonstraram que o servidor estava operacional e pronto para receber configurações adicionais em laboratórios futuros.
+### A máquina virtual foi criada e o sistema operacional foi instalado com sucesso. O primeiro acesso ao servidor foi realizado normalmente, e os comandos utilizados confirmaram o funcionamento básico do ambiente.
+### As verificações de hostname, usuário, rede, armazenamento e memória demonstraram que o servidor estava operacional e pronto para receber configurações adicionais em laboratórios futuros.
 
 # 7. Dificuldades Encontradas
 
-## Não foram identificadas falhas relevantes durante a criação da máquina virtual, a instalação do sistema operacional ou a execução dos comandos de validação.
+### Não foram identificadas falhas relevantes durante a criação da máquina virtual, a instalação do sistema operacional ou a execução dos comandos de validação.
 
 # 8. Evidências (ACESSE A PASTA 'print' DESTE REPOSITÓRIO!!!)
-## 8.1 Primeiro login no servidor
+### 8.1 Primeiro login no servidor
 
 # Figura 1 (Screenshot de Login) — Inicialização do Ubuntu Server e primeiro login realizado com sucesso.
 
-## 8.2 Verificação do ambiente
+### 8.2 Verificação do ambiente
 
 # Figura 2 (Screenshot de comandos) — 
-## Execução dos comandos 
+### Execução dos comandos 
 
 hostname 
 
@@ -112,4 +112,4 @@ free -h
 
 # 9. Informação a Ser Validada
 
-# Atenção: a configuração original informa a utilização do Ubuntu Server 25.04 — Plucky Puffin no Virtualbox, porém a tela de login apresentada nas evidências identifica o sistema como Ubuntu 26.04 LTS. A versão efetivamente instalada deve ser confirmada e atualizada nesta documentação para manter a consistência das informações.
+## Atenção: a configuração original informa a utilização do Ubuntu Server 25.04 — Plucky Puffin no Virtualbox, porém a tela de login apresentada nas evidências identifica o sistema como Ubuntu 26.04 LTS. A versão efetivamente instalada deve ser confirmada e atualizada nesta documentação para manter a consistência das informações.
