@@ -366,39 +366,37 @@ Este laboratório se destaca por integrar **Linux, redes, segurança, virtualiza
 ## Estrutura do repositório
 
 ```text
-infra-labs-portfolio/
+infra-labs_-PORTFOLIO--main/
 │
-├── README.md
-│
-├── Laboratorio-01-Instalacao-Ubuntu/
-│   ├── README.md
-│   └── prints/
-│       ├── 01-login.png
-│       ├── 02-hostname-usuario.png
-│       └── 03-recursos-sistema.png
+├── README_Portfolio_Infra_Labs.md
 │
 ├── Projeto-Servidor-web/
-│   ├── README.md
-│   ├── configs/
-│   │   └── 01-servidor.yaml
-│   ├── site/
-│   │   └── index.html
-│   └── docs/
-│       └── images/
-│           ├── 01-interface-rede.png
-│           ├── 02-rota-padrao.png
-│           ├── 03-netplan.png
-│           ├── 04-netplan-aplicado.png
-│           ├── 05-nginx-ativo.png
-│           ├── 06-porta-80.png
-│           ├── 07-index-html.png
-│           ├── 08-ufw.png
-│           ├── 09-port-forwarding.png
-│           ├── 10-tcp-test.png
-│           ├── 11-http-200.png
-│           └── 12-pagina-publicada.png
+│   ├── documentação/
+│   │   └── README.md
+│   └── print/
+│       ├── Screenshot de login.png
+│       └── Screenshot dos comandos.png
 │
-└── proximos-laboratorios/
+└── servidor-web-ubuntu/
+    ├── README_Servidor_Web_Ubuntu.md
+    ├── configs/
+    │   └── 01-servidor.yaml.txt
+    ├── site/
+    │   └── index.html.txt
+    └── docs/
+        └── images/
+            ├── 01-ip-address.png
+            ├── 02-ip-route.png
+            ├── 03-netplan-config.png
+            ├── 04- netplan apply.png
+            ├── 05-nginx status.png
+            ├── 06-porta-80-listen.png
+            ├── 07-index_html.png
+            ├── 08-ufw status.png
+            ├── 09-port forwarding.png
+            ├── 10-tcp test.png
+            ├── 11-http 200.png
+            └── 12-pagina-web.png
 ```
 
 A estrutura poderá ser ampliada conforme novos laboratórios forem desenvolvidos.
