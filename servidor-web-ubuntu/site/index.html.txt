@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Servidor Web Linux Seguro</title>
+</head>
+<body>
+    <h1>Servidor Web Linux funcionando!</h1>
+    <p>Servidor Ubuntu com Nginx localizado em uma DMZ.</p>
+
+    <h2>Controles implementados</h2>
+    <ul>
+        <li>Firewall UFW</li>
+        <li>Acesso HTTP limitado à rede interna</li>
+        <li>Acesso SSH limitado ao computador administrativo</li>
+        <li>Proteção contra tentativas repetidas com Fail2ban</li>
+        <li>Servidor protegido por firewall de rede</li>
+    </ul>
+</body>
+</html>
