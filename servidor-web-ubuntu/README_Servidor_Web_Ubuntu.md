@@ -596,40 +596,6 @@ TcpTestSucceeded : True
 
 ---
 
-# Evidências sugeridas
-
-Adicione as imagens na pasta `docs/images/`:
-
-```text
-docs/
-└── images/
-    ├── 01-ip-address.png
-    ├── 02-netplan.png
-    ├── 03-nginx-active.png
-    ├── 04-porta-80.png
-    ├── 05-ufw-status.png
-    ├── 06-port-forwarding.png
-    ├── 07-tcp-test.png
-    └── 08-pagina-web.png
-```
-
-Exemplo para inserir uma evidência no README:
-
-```markdown
-## Evidência: página publicada
-
-![Página do servidor Ubuntu](docs/images/08-pagina-web.png)
-```
-
-Não publique:
-
-- senhas;
-- chaves privadas;
-- tokens;
-- informações pessoais;
-- endereços públicos sensíveis.
-
----
 
 # Estrutura recomendada do repositório
 
